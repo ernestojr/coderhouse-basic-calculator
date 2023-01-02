@@ -1,0 +1,8 @@
+{
+  "name": "@coderhouse/basic-calculator",
+  "version": "1.0.0",
+  "description": "Basic calculator",
+  "main": "app.js",
+  "author": "Coder House",
+  "license": "ISC"
+}
