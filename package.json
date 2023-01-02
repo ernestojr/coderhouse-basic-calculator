@@ -1,8 +1,16 @@
 {
   "name": "@coderhouse/basic-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic calculator",
+  "type": "module",
   "main": "app.js",
   "author": "Coder House",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestojr/coderhouse-basic-calculator"
+  },
+  "bugs": {
+    "url": "https://github.com/ernestojr/coderhouse-basic-calculator/issues"
+  },
   "license": "ISC"
 }
