@@ -1,5 +1,5 @@
 {
-  "name": "@coderhouse/basic-calculator",
+  "name": "ch-basic-calculator",
   "version": "1.0.1",
   "description": "Basic calculator",
   "type": "module",
