@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/ernestojr/coderhouse-basic-calculator/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "ISC"
 }
