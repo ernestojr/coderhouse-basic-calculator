@@ -1,22 +1,15 @@
-function addition(a, b) {
+module.exports.addition = function(a, b) {
   return a + b
 }
 
-function subtraction(a, b) {
+module.exports.subtraction = function(a, b) {
   return a - b
 }
 
-function division(a, b) {
+module.exports.division = function(a, b) {
   return a / b
 }
 
-function multiplication(a, b) {
+module.exports.multiplication = function(a, b) {
   return a * b
-}
-
-module.exports = {
-  addition,
-  subtraction,
-  division,
-  multiplication,
 }
