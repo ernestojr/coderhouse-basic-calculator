@@ -1,8 +1,7 @@
 {
   "name": "ch-basic-calculator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Basic calculator",
-  "type": "module",
   "main": "app.js",
   "author": "Coder House",
   "repository": {
