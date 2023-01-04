@@ -1,9 +1,10 @@
 {
   "name": "ch-basic-calculator",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Basic calculator",
   "main": "app.js",
   "author": "Coder House",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ernestojr/coderhouse-basic-calculator"
@@ -15,12 +16,11 @@
     "access": "public"
   },
   "scripts": {
-    "test": "jest"
+    "test": "mocha"
   },
   "license": "ISC",
   "devDependencies": {
-    "@babel/preset-env": "^7.20.2",
-    "babel-jest": "^29.3.1",
-    "jest": "^29.3.1"
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
   }
 }
