@@ -1,15 +1,15 @@
-module.exports.addition = function(a, b) {
+export function addition(a, b) {
   return a + b
 }
 
-module.exports.subtraction = function(a, b) {
+export function subtraction(a, b) {
   return a - b
 }
 
-module.exports.division = function(a, b) {
+export function division(a, b) {
   return a / b
 }
 
-module.exports.multiplication = function(a, b) {
+export function multiplication(a, b) {
   return a * b
 }

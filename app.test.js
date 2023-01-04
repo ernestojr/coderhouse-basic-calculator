@@ -1,9 +1,9 @@
-const {
+import {
   addition,
   subtraction,
   multiplication,
   division,
-} = require('./app.js')
+} from './app'
 
 test('adds 1 + 2 to equal 3', () => {
   expect(addition(1, 2)).toBe(3)
